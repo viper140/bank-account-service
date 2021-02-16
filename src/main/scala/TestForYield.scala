@@ -1,6 +1,4 @@
-import com.apple.eawt.Application
-
-import scala.util.{Failure, Try}
+import scala.util.Try
 
 object TestForYield {
 
